@@ -1,14 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Abel|Oswald:700|Yellowtail|Patrick+Hand');
 
-* {
+/* //put this in base ? */
+/* * {
   font-family: times;
-}
+} */
 
-body {
+/* //put this in base ? */
+/* body {
   background: #fff;
-}
+} */
 
-nav, article, aside, footer section {
+/* //I put this in layout */
+/* nav, article, aside, footer section {
   margin: 0 auto;
   width: 900px;
 }
@@ -32,7 +35,7 @@ nav {
   padding-left: 50px;
   font-family: 'Yellowtail', cursive;
   font-size: 2.4em;
-}
+} */
 
 #slogan {
   width: 250px;
